@@ -14,7 +14,7 @@ Tunnel is a bash based script which is made for ngrok users of termux from this 
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![photo_2019-06-29_15-32-01](https://user-images.githubusercontent.com/49580304/60383963-159ea080-9a96-11e9-92e5-7242247482fa.jpg)
+![www noob-hackers com](https://user-images.githubusercontent.com/49580304/79551648-91b2b500-80b7-11ea-8b29-8951bdc2052e.jpg)
 
 
 ### 📌 ***Tunnel is available for***:
@@ -90,9 +90,7 @@ __Exit__ :
 - From this option you can exit from tunnel tool.
 
 ## 📌 ***Screenshot*** :
-<img src="https://user-images.githubusercontent.com/49580304/60384459-80060f80-9a9b-11e9-807e-ba9f51d2a48f.jpg" width="80%"></img>
-<img src="https://user-images.githubusercontent.com/49580304/60384482-eab74b00-9a9b-11e9-8371-3e7c9a17aae1.jpg" width="80%"></img>
-
+<img src="https://user-images.githubusercontent.com/49580304/79551746-b870eb80-80b7-11ea-9ab7-02a76979d5db.jpg" width="80%"></img>
 ## 📌 ***Full video tutorial***:
 [![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
 ## 🔗 ***Check this***
