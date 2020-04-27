@@ -6,6 +6,8 @@ printf "\e[1;91m               ADDING TO BOOT PLEASE WAIT....!\e[0m\n"
 echo 
 sleep 3.0
 cd /data/data/com.termux/files/usr/etc
+cp bash.bashrc $HOME/tunnel/revert
+cd /data/data/com.termux/files/usr/etc
 rm bash.bashrc
 cd $HOME/tunnel/boot
 cp bash.bashrc /data/data/com.termux/files/usr/etc
