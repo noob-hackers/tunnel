@@ -1,4 +1,4 @@
-<h1 align="center">Tunnel v1.0</h1>
+<h1 align="center">Tunnel v1.1</h1>
 <p align="center">
       A new automated script for ngrok
 </p>
@@ -85,6 +85,9 @@ __Update script__ :
 
 __About__ :
 - From this option you can read about author.
+
+__Remove from Boot__ :
+- From this option you can remove that ngrok theme.
 
 __Exit__ :
 - From this option you can exit from tunnel tool.
