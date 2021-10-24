@@ -125,8 +125,8 @@ __EXIT__ :
 [![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
-<!-- Start Video code -->
-<center><iframe width="300" height="200" src="https://rebrand.ly/YTAPPRVVID"></iframe></center>
+<!-- Start Banner 1 code -->
+<center><a href="https://bit.ly/BANREDIRECT1"><img src="https://rebrand.ly/bannerad1" height="100" width="390"/></a></center>
 <!-- End of code -->
 
 ## BUY ME A COFFEE :
