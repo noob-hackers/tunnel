@@ -70,6 +70,8 @@ Tunnel is a bash based script which is made for ngrok users of termux from this 
 
 [+]-- Note:- Don't delete any of the scripts included in core files
 
+[+]--Note:- If you are using Ngrok in android please enable hotspot without hotspot not work.
+
 ```
 ## USAGE OPTIONS [Termux] :
 
