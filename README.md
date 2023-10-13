@@ -62,12 +62,15 @@ Tunnel is a bash based script which is made for ngrok users of termux from this 
 * `cd tunnel`
 * `ls`
 * `bash tunnel.sh`
+* `ngrok config add-authtoken <Add authtoken here>`
 ```
 [+]-- Now you need internet connection to continue further process...
 
 [+]-- You can select any option by clicking on your keyboard
 
 [+]-- Note:- Don't delete any of the scripts included in core files
+
+[+]--Note:- If you are using Ngrok in android please enable hotspot without hotspot not work.
 
 ```
 ## USAGE OPTIONS [Termux] :
